@@ -38,7 +38,7 @@
     "typescript": "5.2.2"
   },
   "dependencies": {
-    "@cto.af/unicode-trie": "1.2.2"
+    "@cto.af/unicode-trie": "git://github.com/valadaptive/unicode-trie.git#web"
   },
   "engines": {
     "node": ">=16"
